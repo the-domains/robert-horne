@@ -1,4 +1,3 @@
-layout_spectrum: 0.6619256937410682
 typography_spectrum: 0.4278790580574423
 color:
   brandStrength: 0.7089341727551073
@@ -6,9 +5,11 @@ color:
   saturation: 0.7870183563791215
   rhythmicContrast: 0.932849021628499
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.6619256937410682
 name: Robert-Horne
+description: Hi guys
